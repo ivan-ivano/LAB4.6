@@ -67,13 +67,11 @@ int main()
 	cout << setprecision(5) << P << endl;
 
 	P = 1;
-	k = 1;
 	i = 1;
 
 	for (k = 15; k >= 1; k--)
 	{
 		S = 0;
-		i = 1;
 
 		for (i = k; i >= 1; i--)
 		{
